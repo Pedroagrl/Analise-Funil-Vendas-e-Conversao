@@ -102,18 +102,18 @@ Toda a lógica de cálculo está baseada em consultas SQL estruturadas.
 ---
 
 
-Adicione aqui o link do vídeo do projeto.
+[Adicione aqui o link do vídeo do projeto.](https://youtu.be/rzrr9z4iBL4?si=_SO6-J1kBcFl7qEr)
 
 Exemplo:
 
 ```md
-[▶️ Assistir demonstração do dashboard](./assets/video_demo.mp4)
+[▶️ Assistir demonstração do dashboard](./assets/video1.mp4)
 ```
 
 Ou:
 
 ```md
-[▶️ Assistir demonstração do dashboard](https://github.com/seu-repo/assets/video_demo.mp4)
+[▶️ Assistir demonstração do dashboard](https://github.com/Analise-Funil-Vendas-e-Conversao/assets/video1.mp4)
 ```
 
 ---
