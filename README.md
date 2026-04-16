@@ -50,6 +50,10 @@ O foco foi estruturar uma base analítica confiável e aplicar consultas SQL que
 
 📁 assets
 ┣ video_demo.mp4
+┣ img1.png
+
+📁 data
+┣ analise-funil-vendas-e-conversao.xlsx
 ```
 
 ### Descrição das pastas
@@ -101,22 +105,13 @@ Toda a lógica de cálculo está baseada em consultas SQL estruturadas.
 
 ---
 
+## Dashboard
 
-[Adicione aqui o link do vídeo do projeto.](https://youtu.be/rzrr9z4iBL4?si=_SO6-J1kBcFl7qEr)
 
-Exemplo:
+![Preview do Dashboard](./assets/img1.png)
 
-```md
-[▶️ Assistir demonstração do dashboard](./assets/video1.mp4)
-```
+[Video de demonstração do dashboard.](https://youtu.be/rzrr9z4iBL4?si=_SO6-J1kBcFl7qEr)
 
-Ou:
-
-```md
-[▶️ Assistir demonstração do dashboard](https://github.com/Analise-Funil-Vendas-e-Conversao/assets/video1.mp4)
-```
-
----
 
 ## Considerações Finais
 
